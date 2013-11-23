@@ -4,19 +4,87 @@
    Author's custom styles
    ========================================================================== */
 
+#registration_form.modal {
+	width: 250px!important;
+	margin-left: -125px!important;
+}
 
+.comments {
+	list-style: none;	
+}
 
+.comments .comment .name {
+	font-size: 20px;	
+}
 
+.comments .comment .email {
+	font-size: 16px;
+}
+.comments .comment .text {
+	font-size: 14px;
+	margin-top: 10px;
+}
 
+.comments .comment.level0 {
+	margin-left: 0;
+}
 
+.comments .comment.level1 {
+	margin-left: 20px;
+}
 
+.comments .comment.level2 {
+	margin-left: 40px;
+}
 
+.comments .comment.level3 {
+	margin-left: 60px;
+}
 
+.comments .comment.level4 {
+	margin-left: 100px;
+}
 
+.comments .comment.level5 {
+	margin-left: 120px;
+}
 
+.comments .comment.level6 {
+	margin-left: 140px;
+}
 
+.comments .comment.level7 {
+	margin-left: 160px;
+}
 
+.comments .comment.level8 {
+	margin-left: 180px;
+}
 
+.comments .comment.level9 {
+	margin-left: 200px;
+}
 
+.comments .comment.level10 {
+	margin-left: 220px;
+}
 
+.comments .comment.level11 {
+	margin-left: 240px;
+}
 
+.comments .comment.level12 {
+	margin-left: 260px;
+}
+
+.comments .comment.level13 {
+	margin-left: 280px;
+}
+
+.comments .comment.level14 {
+	margin-left: 300px;
+}
+
+.comments .comment .answer_comment {
+	display: none;
+}

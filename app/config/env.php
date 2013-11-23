@@ -16,11 +16,10 @@ return array(
 		),
 	),
 	'components' => array(
-//		modify to suit your needs
 		'db' => array(
-			'connectionString' => 'mysql:host=localhost;dbname=linkeeper',
-			'username' => 'root',
-			'password' => 'tureaxiu',
+			'connectionString' => 'mysql:host=localhost;dbname=happygiraffetest',
+			'username' => 'happygiraffetest',
+			'password' => 'happygiraffetest',
 			'enableProfiling' => true,
 			'enableParamLogging' => true,
 			'charset' => 'utf8',
